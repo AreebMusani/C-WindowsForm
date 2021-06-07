@@ -1,0 +1,138 @@
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Pro.exe.config
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Pro.exe
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Pro.pdb
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\System.ValueTuple.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.Core.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\System.ValueTuple.xml
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.adGroups.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.BatchesForm.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.Form1.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.importCSV.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.Main.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.ProjectForm.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.Properties.Resources.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.Register.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.Remark.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.Reminder.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.Student_Form.resources
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.csproj.CopyComplete
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.exe
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.pdb
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\CsvHelper.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\CsvReaderWriter.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\CsvHelper.xml
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\System.Data.Common.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\System.Data.SqlClient.dll
+C:\Users\dell\source\repos\Pro\Pro\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\dell\source\repos\Pro\Pro\obj\Debug\Pro.csprojAssemblyReference.cache
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Pro.exe.config
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.exe
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.pdb
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Pro.exe
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Pro.pdb
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\CsvHelper.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\CsvReaderWriter.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\System.Data.Common.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\System.Data.SqlClient.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\System.ValueTuple.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\CsvHelper.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\System.ValueTuple.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.csprojResolveAssemblyReference.cache
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.adGroups.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.BatchesForm.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.Form1.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.importCSV.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.Main.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.ProjectForm.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.Properties.Resources.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.Register.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.Remark.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.Reminder.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.Student_Form.resources
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.csproj.GenerateResource.Cache
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.Licensing.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\HC\Downloads\Project ProPlan\Pro\Pro\obj\Debug\Pro.exe.licenses
